@@ -1,13 +1,13 @@
-<mxfile host="Electron" modified="2024-03-10T06:59:24.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="R3rjIoIxIdU6pkfUFb9I" version="23.1.5" type="device">
+<mxfile host="Electron" modified="2024-04-17T20:18:04.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="JttxQG5kD5BJ2Em1XVUn" scale="1" border="0" version="24.2.5" type="device">
   <diagram name="Page-1" id="qPSxW7D2yFV_Xe5P6E8P">
-    <mxGraphModel dx="1760" dy="1084" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="629" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="O3pePAC8wXpVwLeQrTAs-2" value="Context Diagram&amp;nbsp;&lt;br style=&quot;font-size: 20px;&quot;&gt;Library Management System" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="O3pePAC8wXpVwLeQrTAs-2" value="Context Diagram&amp;nbsp;&lt;br style=&quot;font-size: 20px;&quot;&gt;Library Management System" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="440" y="70" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O3pePAC8wXpVwLeQrTAs-4" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="O3pePAC8wXpVwLeQrTAs-4" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="17" y="168" width="1140" height="623.2900000000001" as="geometry" />
         </mxCell>
         <mxCell id="XqLzsYDsnyS6kK-KGQqA-3" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Verdana&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Library management system&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;fontSize=18;" parent="O3pePAC8wXpVwLeQrTAs-4" vertex="1">
@@ -42,14 +42,14 @@
         <mxCell id="PlGmfiSZm8DJ5U56nJp8-17" value="Book, Return Date" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;fontSize=20;" parent="O3pePAC8wXpVwLeQrTAs-4" vertex="1">
           <mxGeometry x="212.99716814159297" y="215.9985963946608" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PlGmfiSZm8DJ5U56nJp8-27" value="Add / Update Member" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;fontSize=20;" parent="O3pePAC8wXpVwLeQrTAs-4" vertex="1">
-          <mxGeometry x="683.5376106194691" width="214" height="36" as="geometry" />
+        <mxCell id="PlGmfiSZm8DJ5U56nJp8-27" value="&amp;nbsp;Member Info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;fontSize=20;" parent="O3pePAC8wXpVwLeQrTAs-4" vertex="1">
+          <mxGeometry x="723.5376106194691" width="136" height="36" as="geometry" />
         </mxCell>
         <mxCell id="PlGmfiSZm8DJ5U56nJp8-34" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Reports&lt;br style=&quot;font-size: 16px;&quot;&gt;(Members, Reservations, Books)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;fontSize=16;" parent="O3pePAC8wXpVwLeQrTAs-4" vertex="1">
           <mxGeometry x="760.2470353982302" y="274.00270675657043" width="251" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="DH00FvAJnnbW6bKAE-SL-3" value="Return a Book" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;fontSize=20;" parent="O3pePAC8wXpVwLeQrTAs-4" vertex="1">
-          <mxGeometry x="219.0037610619469" y="284.0049277556076" width="150" height="40" as="geometry" />
+        <mxCell id="DH00FvAJnnbW6bKAE-SL-3" value="Book Available List" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;fontSize=20;" parent="O3pePAC8wXpVwLeQrTAs-4" vertex="1">
+          <mxGeometry x="201.0037610619469" y="286.0049277556076" width="186" height="36" as="geometry" />
         </mxCell>
         <mxCell id="DAH1wKKM-QWOaFqPa0QI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="O3pePAC8wXpVwLeQrTAs-4" source="XqLzsYDsnyS6kK-KGQqA-3" target="XqLzsYDsnyS6kK-KGQqA-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -84,17 +84,11 @@
         <mxCell id="DAH1wKKM-QWOaFqPa0QI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="O3pePAC8wXpVwLeQrTAs-4" source="XqLzsYDsnyS6kK-KGQqA-3" target="DH00FvAJnnbW6bKAE-SL-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DH00FvAJnnbW6bKAE-SL-11" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.932;entryY=0.254;entryDx=0;entryDy=0;entryPerimeter=0;" parent="O3pePAC8wXpVwLeQrTAs-4" source="PlGmfiSZm8DJ5U56nJp8-3" target="XqLzsYDsnyS6kK-KGQqA-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="DAH1wKKM-QWOaFqPa0QI-5" value="Reservation Notification" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="O3pePAC8wXpVwLeQrTAs-4" vertex="1">
           <mxGeometry x="191" y="375" width="229" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="DAH1wKKM-QWOaFqPa0QI-6" value="Update Book" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;fontSize=20;" parent="O3pePAC8wXpVwLeQrTAs-4" vertex="1">
-          <mxGeometry x="833.9976106194691" y="220" width="134" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="XZeM-M_cUiclc3aZlOUi-1" value="Add Book" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;fontSize=20;" parent="O3pePAC8wXpVwLeQrTAs-4" vertex="1">
-          <mxGeometry x="812.9976106194691" y="115" width="105" height="36" as="geometry" />
+        <mxCell id="DAH1wKKM-QWOaFqPa0QI-6" value="Book Info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;fontSize=20;" parent="O3pePAC8wXpVwLeQrTAs-4" vertex="1">
+          <mxGeometry x="849.9976106194691" y="220" width="103" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
