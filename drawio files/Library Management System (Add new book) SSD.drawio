@@ -1,0 +1,76 @@
+<mxfile host="Electron" modified="2024-04-30T17:50:06.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="iFMnkMc3QBLewei4Nra_" version="24.2.5" type="device">
+  <diagram name="Page-1" id="cm-2u6j7JJmSpWIwPnKj">
+    <mxGraphModel dx="1036" dy="1441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hgP5EtpTh-iyFNK-ZhuY-1" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="360" y="-668" width="450" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="HkuWQv5Oi5ytf9UjkNgG-29" value="" style="group" parent="hgP5EtpTh-iyFNK-ZhuY-1" vertex="1" connectable="0">
+          <mxGeometry x="55" width="395" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="HkuWQv5Oi5ytf9UjkNgG-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="HkuWQv5Oi5ytf9UjkNgG-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40.5" y="220" as="sourcePoint" />
+            <mxPoint x="310" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HkuWQv5Oi5ytf9UjkNgG-11" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;strokeWidth=1;" parent="HkuWQv5Oi5ytf9UjkNgG-29" vertex="1">
+          <mxGeometry x="25" y="30" width="20" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="HkuWQv5Oi5ytf9UjkNgG-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};container=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="HkuWQv5Oi5ytf9UjkNgG-11" vertex="1">
+          <mxGeometry x="5" y="50" width="10" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="HkuWQv5Oi5ytf9UjkNgG-6" value="System" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="HkuWQv5Oi5ytf9UjkNgG-29" vertex="1">
+          <mxGeometry x="265" y="30" width="100" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="HkuWQv5Oi5ytf9UjkNgG-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#1ba1e2;container=0;fontColor=#ffffff;strokeColor=#006EAF;" parent="HkuWQv5Oi5ytf9UjkNgG-29" vertex="1">
+          <mxGeometry x="310" y="90" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="HkuWQv5Oi5ytf9UjkNgG-12" value="Add new book(book info)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="HkuWQv5Oi5ytf9UjkNgG-29" vertex="1">
+          <mxGeometry x="95" y="190" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HkuWQv5Oi5ytf9UjkNgG-15" value="Librarian" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="HkuWQv5Oi5ytf9UjkNgG-29" vertex="1">
+          <mxGeometry width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HkuWQv5Oi5ytf9UjkNgG-21" value="Book addition status()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="HkuWQv5Oi5ytf9UjkNgG-29" vertex="1">
+          <mxGeometry x="100" y="240" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HkuWQv5Oi5ytf9UjkNgG-22" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=14;rounded=0;" parent="HkuWQv5Oi5ytf9UjkNgG-29" edge="1">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="309.5" y="270" as="sourcePoint" />
+            <mxPoint x="40.5" y="270.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HkuWQv5Oi5ytf9UjkNgG-24" value="" style="endArrow=classic;html=1;rounded=0;" parent="HkuWQv5Oi5ytf9UjkNgG-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="45.25" y="110" as="sourcePoint" />
+            <mxPoint x="310" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HkuWQv5Oi5ytf9UjkNgG-25" value="New book addition()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="HkuWQv5Oi5ytf9UjkNgG-29" vertex="1">
+          <mxGeometry x="105" y="80" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HkuWQv5Oi5ytf9UjkNgG-32" value="" style="endArrow=classic;html=1;rounded=0;" parent="HkuWQv5Oi5ytf9UjkNgG-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40.5" y="328" as="sourcePoint" />
+            <mxPoint x="310" y="328" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HkuWQv5Oi5ytf9UjkNgG-33" value="End the process()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="HkuWQv5Oi5ytf9UjkNgG-29" vertex="1">
+          <mxGeometry x="110" y="298" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HkuWQv5Oi5ytf9UjkNgG-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="HkuWQv5Oi5ytf9UjkNgG-29" vertex="1">
+          <mxGeometry x="-65" y="128" width="450" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="HkuWQv5Oi5ytf9UjkNgG-27" value="[Loop]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="HkuWQv5Oi5ytf9UjkNgG-29" vertex="1">
+          <mxGeometry x="-75" y="123" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HkuWQv5Oi5ytf9UjkNgG-31" value="[More items]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="hgP5EtpTh-iyFNK-ZhuY-1" vertex="1">
+          <mxGeometry y="182" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
