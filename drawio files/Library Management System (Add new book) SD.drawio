@@ -1,0 +1,52 @@
+<mxfile host="Electron" modified="2024-04-30T17:53:21.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="xXVkl3gMcgrDkh0x7af1" version="24.2.5" type="device">
+  <diagram name="Page-1" id="K36B-8KeolQh_DIfhz86">
+    <mxGraphModel dx="1036" dy="1441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JQlLi9H9kjLhAP4fJxrG-5" value="Books DS" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="780" y="-640" width="100" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="JQlLi9H9kjLhAP4fJxrG-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#1ba1e2;container=0;fontColor=#ffffff;strokeColor=#006EAF;" parent="JQlLi9H9kjLhAP4fJxrG-5" vertex="1">
+          <mxGeometry x="45" y="60" width="10" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="JQlLi9H9kjLhAP4fJxrG-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="-550" width="580" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="JQlLi9H9kjLhAP4fJxrG-19" value="[More items]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="1" vertex="1">
+          <mxGeometry x="315" y="-490" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JQlLi9H9kjLhAP4fJxrG-18" value="[Loop]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="1" vertex="1">
+          <mxGeometry x="310" y="-554" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JQlLi9H9kjLhAP4fJxrG-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="JQlLi9H9kjLhAP4fJxrG-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="415.5" y="-448" as="sourcePoint" />
+            <mxPoint x="820" y="-450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQlLi9H9kjLhAP4fJxrG-3" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="-638" width="20" height="378" as="geometry" />
+        </mxCell>
+        <mxCell id="JQlLi9H9kjLhAP4fJxrG-7" value="Add new book(book info)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="1" vertex="1">
+          <mxGeometry x="530" y="-478" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JQlLi9H9kjLhAP4fJxrG-8" value="Librarian" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="1" vertex="1">
+          <mxGeometry x="375" y="-668" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JQlLi9H9kjLhAP4fJxrG-11" value="Book addition status(book status)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;container=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="-400" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JQlLi9H9kjLhAP4fJxrG-12" value="" style="html=1;labelBackgroundColor=#ffffff;startArrow=none;startFill=0;startSize=6;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;dashed=1;fontSize=14;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="60" height="60" relative="1" as="geometry">
+            <mxPoint x="825" y="-360" as="sourcePoint" />
+            <mxPoint x="415" y="-360.00000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQlLi9H9kjLhAP4fJxrG-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};container=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="405" y="-588" width="10" height="318" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
